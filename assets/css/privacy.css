@@ -1,0 +1,18 @@
+.wrap {background:#202020;}
+.inner .privacy_box {width: 100%; height: 100%; background: #202020; color:#FFF; padding: 20px 0;}
+.inner .privacy_box h2 { margin-bottom: 20px; color: #FFF;}
+.inner .privacy_box span {font-weight: bold;color: #FFF;}
+.m_ham {
+    width: 50%;
+    height: 58px;
+    position: relative;
+    display: none;
+    transition: all 0.3s ease;
+}
+.m_ham a {
+    width: 100%;
+    display: block;
+    height: 100%;
+    text-align: right;
+    line-height: 58px;
+}
